@@ -1,10 +1,10 @@
 # VGA
 ## Phases:
 ### RTL Design. 
-### Verification of RTL code using Systemverilog Assertions.
-### Implementation of Design on Tang Nano FPGA.
-### Connecting FPGA to PC Screen to test the design. 
-## Testing Different colors on screen:
+### Verifica of RTL code using Systemverilog Assertions.
+### Implement of Design on Tang Nano FPGA.
+### To test the didign, connect the FPGA to TV Screen VGA to HDMI converter cable. 
+## Testing Different colors on screen
 ## Blue:
 ![Alt text](https://github.com/mwael2002/VGA/blob/main/blue.jpg)
 ## Green:
