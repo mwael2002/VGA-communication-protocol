@@ -2,7 +2,7 @@
 ## Phases:
 ### RTL Design. 
 ### Verification of RTL code using Systemverilog Assertions.
-### Implement the design on Tang Nano FPGA.
+### Prototype the design on Tang Nano FPGA.
 ### To test the design, connect the FPGA to TV Screen VGA to HDMI converter cable. 
 ## Testing Different colors on screen
 ## Blue:
